@@ -8,8 +8,11 @@ In the side YAML file, specify the material properties, the locations of the cor
 
 ## Output
 - 3D Interaction P-M-M Diagram, On each point on this diagram, all information about that point are shown including:
+
     1- P (Axial Force)
+  
     2- Mx (Moment in x dir.)
+  
     3- My (Moment in y dir.)
     4- Maximum tensile strain in the bars
     5- c, the location of the neutral axis
