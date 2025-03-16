@@ -15,7 +15,7 @@ In the side YAML file, specify the material properties, the locations of the cor
     5- c, the location of the neutral axis
     6- Alpha (rad), the location of the considered surface
     7- The status of the section (Compression-controlled, Tension-controlled, Transition Zone)
-  - 2D Interaction P-M Digrams for surfaces. with alpha equal to 0, 90, 180, and 270 degrees.
+- 2D Interaction P-M Digrams for surfaces. with alpha equal to 0, 90, 180, and 270 degrees.
 
 ![image](https://github.com/user-attachments/assets/505bce60-5b32-49e9-8d23-2e41a319ca10)
 
