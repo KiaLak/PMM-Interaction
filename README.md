@@ -6,6 +6,17 @@ The 3D P-M-M interaction diagram for reinforced concrete sections is a critical 
 ## How to use
 In the side YAML file, specify the material properties, the locations of the corners of the considered section, and the positions of all the reinforcing bars. Then, run the code. Ensure that you are using Python 3.12 or a newer version.
 
+## Output
+- 3D Interaction P-M-M Diagram, On each point on this diagram, all information about that point are shown including:
+    1- P (Axial Force)
+    2- Mx (Moment in x dir.)
+    3- My (Moment in y dir.)
+    4- Maximum tensile strain in the bars
+    5- c, the location of the neutral axis
+    6- Alpha (rad), the location of the considered surface
+    7- The status of the section (Compression-controlled, Tension-controlled, Transition Zone)
+  - 2D Interaction P-M Digrams for surfaces. with alpha equal to 0, 90, 180, and 270 degrees.
+
 ![image](https://github.com/user-attachments/assets/505bce60-5b32-49e9-8d23-2e41a319ca10)
 
 
